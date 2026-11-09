@@ -1,0 +1,7 @@
+google-play-scraper
+pandas
+scikit-learn
+joblib
+streamlit
+Sastrawi
+matplotlib
